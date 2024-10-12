@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrWinner4
 - I'm a Computer Science Student in High School
-- Trying to finish up cs50x while taking Post-AP in school
+- Taking Post-AP; finished CS50X
 - Email: @judd.ebert@student.lovett.org OR juddebert@yahoo.com(personal)
 
 <!---
