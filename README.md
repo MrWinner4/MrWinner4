@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Judd Ebert
 - I'm a Computer Science Student at the Lovett School
 - Founder of Axent: "Tinder for shoes"
+- Former High School Intern at STEM@GTRI, worked in the ICL laboratory on product development(Bathroom Alert Tool)
 - Completed Post-AP CS, APCSA(5 on exam), & CS50X
 - Currently independently studying [professional software development](https://medium.com/@judd.ebert/a-case-study-in-saas-eaa55ba56266)
 - Email: @judd.ebert@student.lovett.org OR juddebert@yahoo.com(personal)
